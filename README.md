@@ -1,4 +1,5 @@
 <h1 align="center">BETTY LINTER</h1>
+The <a href="https://github.com/holbertonschool/Betty/wiki">Betty</a> coding style is the official C coding style for ALX School. <br>
 To run the Betty linter just with command <code>betty name_of_file</code>, for example: <code>betty 4-print_rev.c</code>
 
 <br>
